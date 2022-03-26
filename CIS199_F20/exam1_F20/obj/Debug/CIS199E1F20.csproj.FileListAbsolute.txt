@@ -1,0 +1,10 @@
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\bin\Debug\CIS199E1F20.exe.config
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\bin\Debug\CIS199E1F20.exe
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\bin\Debug\CIS199E1F20.pdb
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.csprojAssemblyReference.cache
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.Form1.resources
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.Properties.Resources.resources
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.csproj.GenerateResource.cache
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.csproj.CoreCompileInputs.cache
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.exe
+C:\Users\overx\OneDrive - University of Louisville\Documents\CIS199\Exam1\CIS199E1F20\obj\Debug\CIS199E1F20.pdb
